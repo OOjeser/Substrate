@@ -1,3 +1,5 @@
+# minecraft-dotnet/Substrate ported to .Net 6
+
 Substrate
 Copyright (C) 2011 Justin Aquadro
 
